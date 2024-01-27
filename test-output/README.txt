@@ -1,0 +1,1 @@
+This folder should contain the output of your programs for all the files in the input folder.
